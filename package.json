@@ -5,22 +5,21 @@
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": " Novo site desenvolvido para o RoboFEI",
+    "description": "Novo site desenvolvido para o RoboFEI",
     "keywords": [
         "css",
         "sass",
         "html"
     ],
-    "homepage": "https://startbootstrap.com/template/small-business",
-    "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-small-business/issues",
-        "email": "feedback@startbootstrap.com"
-    },
+    "homepage": "https://fei.edu.br/robofei/",
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "RoboFEI Team",
     "contributors": [
         "David Miller (https://davidmiller.io/)",
-        "Gustavo Fuentes"
+        "Gustavo Fuentes",
+        "Wesley de S. Motta",
+        "Bruno Bollos Correa",
+        "Danilo Hernani Perico"
     ],
     "repository": {
         "type": "git",

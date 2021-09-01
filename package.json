@@ -1,18 +1,15 @@
 {
-    "title": "Small Business",
-    "name": "startbootstrap-small-business",
-    "version": "4.2.3",
+    "title": "RoboFEI_Web",
+    "name": "RoboFEI_Web",
+    "version": "0.0.0",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A small business HTML template built with Bootstrap",
+    "description": " Novo site desenvolvido para o RoboFEI",
     "keywords": [
         "css",
         "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+        "html"
     ],
     "homepage": "https://startbootstrap.com/template/small-business",
     "bugs": {
@@ -22,20 +19,22 @@
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (https://davidmiller.io/)"
+        "David Miller (https://davidmiller.io/)",
+        "Gustavo Fuentes"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-small-business.git"
+        "url": "https://github.com/OpenFEI/RoboFEI_Web"
     },
     "dependencies": {
         "bootstrap": "4.5.3",
-        "jquery": "3.5.1"
+        "jquery": "3.5.1",
+        "startbootstrap-small-business": "^5.0.3"
     },
     "devDependencies": {
-        "browser-sync": "2.26.13",
+        "browser-sync": "^2.27.5",
         "del": "6.0.0",
-        "gulp": "4.0.2",
+        "gulp": "^4.0.2",
         "merge-stream": "2.0.0"
     }
 }

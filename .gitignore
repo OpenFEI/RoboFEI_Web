@@ -1,7 +1,5 @@
 node_modules
 .travis.yml
 
-LICENSE
 package-lock.json
-README.md
 vendor
